@@ -2,7 +2,8 @@
 
 import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
-import { Download, Menu, X, Github, Linkedin, Mail, Phone } from "lucide-react"
+import { Download, Menu, X, Github, Linkedin, Mail} from "lucide-react"
+import { Phone } from "lucide-react";
 
 interface NavigationProps {
   onSectionClick?: (section: string) => void
