@@ -97,6 +97,10 @@ const computerWords = [
   "UX",
   "Design",
   "Code",
+  "<->",
+  "$",
+  "&&","(  )",
+  "{  }","[  ]"
 ]
 
 export function ParticleMesh() {
