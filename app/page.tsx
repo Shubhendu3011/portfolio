@@ -101,7 +101,7 @@ export default function PortfolioPage() {
                 <ExternalLink className="w-5 h-5 mr-2" />
                 View Projects
               </Button>
-              <Button
+              {/* <Button
                 variant="outline"
                 size="lg"
                 className="border-gray-400 text-gray-700 hover:bg-amber-50 hover:border-amber-600 hover:text-amber-700 px-8 py-3 rounded-xl font-medium hover:scale-105 hover:shadow-lg transition-all duration-300 glass-card"
@@ -109,7 +109,7 @@ export default function PortfolioPage() {
               >
                 <Mail className="w-5 h-5 mr-2" />
                 Contact Me
-              </Button>
+              </Button> */}
             </div>
           </div>
 
